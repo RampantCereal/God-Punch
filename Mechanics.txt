@@ -1,0 +1,5 @@
+-Left hand attacks will make you faster but you will deal less damage
+
+-Right hand attacks will make you slower but you deal more damage
+
+-Alternate attacks to find a comfortable rhythm

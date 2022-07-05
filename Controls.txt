@@ -1,0 +1,10 @@
+Keyboard+Mouse/PS4 Pad
+
+W/Forward ---> move forwards
+S/Backwards ---> move backwards
+A/Left ---> rotate left
+D/right ---> rotate right
+Q/L1 ---> dodge left
+E/R1 ---> dodge right
+Left Click/Square ---> left hand attack
+Right Click/Triangle ---> right hand attack
